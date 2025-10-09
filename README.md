@@ -34,3 +34,5 @@ Build a portfolio piece that screams: I can handle Instagram-scale platforms.
 Add live video streaming
 Integrate AI-powered content recommendations
 Add push notifications & mobile support
+
+<img src="./zzzzzzzzzzzzzzzzzzzz.PNG" alt=""/>
