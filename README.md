@@ -1,3 +1,4 @@
+<pre>  
 # _MVP_Elixir-Phoneix-js-typescript-golang-nodejs-express-redis-nginx-React-3
 
 🌟 Technologies Used
@@ -36,3 +37,4 @@ Integrate AI-powered content recommendations
 Add push notifications & mobile support
 
 <img src="./zzzzzzzzzzzzzzzzzzzz.PNG" alt=""/>
+  </pre>
