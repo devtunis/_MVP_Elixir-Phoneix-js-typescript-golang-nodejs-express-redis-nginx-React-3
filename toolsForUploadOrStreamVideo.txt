@@ -1,0 +1,13 @@
+اقتراحي لك
+
+بما إنك ناوي تبني تطبيق مثل YouTube:
+
+استخدم مكتبة chunk upload (مثل FastPix أو Tus أو Resumable) فقط في جانب الرفع.
+
+بعد الرفع، خزن الملفات في Cloud Storage (زي S3 أو Firebase).
+
+بعدين شغّل خدمة ترميز (Encoding) لتحويل الفيديو إلى صيغ مختلفة (360p, 720p, 1080p).
+
+ثم قسم الفيديو إلى Segments (زي HLS .m3u8 و .ts) للبث.
+
+وأخيرًا، استخدم <video> أو مكتبة تشغيل تدعم HTTP Range Requests للبث مثل YouTube.
