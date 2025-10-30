@@ -1,0 +1,5 @@
+https://www.figma.com/design/1Mp0k1WNWpiDCb7SV9Zcc3/Login---SignUp-Web---Mobile-App-Design--Community-?node-id=0-1&p=f&m=draw
+figma.com/design/Lbkg1yQmNPVIQtV5lHEj9T/Memoji-Stickers-Pack--Community-?node-id=0-1&p=f&m=draw
+https://www.figma.com/design/7d0eFxPtJyNHqcbBWdz3iH/INJOY-Social-Media-App-Ui-Kit-with-Ai-Figma-Mobile-App-UI-Template---High-Quality-UI-Kit--Preview-?node-id=5-585&p=f&m=draw
+chart(request)
+char in function request
