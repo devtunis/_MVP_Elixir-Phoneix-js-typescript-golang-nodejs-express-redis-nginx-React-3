@@ -3,3 +3,4 @@ figma.com/design/Lbkg1yQmNPVIQtV5lHEj9T/Memoji-Stickers-Pack--Community-?node-id
 https://www.figma.com/design/7d0eFxPtJyNHqcbBWdz3iH/INJOY-Social-Media-App-Ui-Kit-with-Ai-Figma-Mobile-App-UI-Template---High-Quality-UI-Kit--Preview-?node-id=5-585&p=f&m=draw
 chart(request)
 char in function request
+add inteset client each time  like [sport,gym,coding]
